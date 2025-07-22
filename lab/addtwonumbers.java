@@ -1,3 +1,4 @@
+package lab;
 public class addtwonumbers{
     public static void main(String[] args){
         int number1=5;
